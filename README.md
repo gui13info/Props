@@ -1,7 +1,7 @@
 # :pushpin: Project
 
 <h1 align="center">
-<img src="https://www.devmedia.com.br/arquivos/cursos/react_props/aula1/image1.png alt="Projeto image" />
+<img src="https://www.devmedia.com.br/arquivos/cursos/react_props/aula1/image1.png" alt="Projeto image" />
 </h1>
 
 ## Available Scripts
